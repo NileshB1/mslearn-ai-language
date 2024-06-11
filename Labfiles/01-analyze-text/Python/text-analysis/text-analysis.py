@@ -2,7 +2,7 @@ from dotenv import load_dotenv
 import os
 
 # Import namespaces
-
+# import namespaces
 
 def main():
     try:
